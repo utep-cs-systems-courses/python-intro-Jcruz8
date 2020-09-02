@@ -1,2 +1,5 @@
-this is a test file to see
-if it can print word by word
+this is a word
+this is a word
+this is a word
+this is a word
+is word word word word
