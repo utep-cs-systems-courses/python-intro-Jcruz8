@@ -1,4 +1,4 @@
-word 8
+word 10
 is 5
 this 4
 a 4
